@@ -1,6 +1,12 @@
 # Expo shopping app
 
-This is an demo shopping app based on [recraft-react-native-shopping-app](https://github.com/recraftrelic/recraft-react-native-shopping-app). Thanks `recraftrelic`
+This is an demo shopping app rewritten based on [recraft-react-native-shopping-app](https://github.com/recraftrelic/recraft-react-native-shopping-app). Thanks `recraftrelic`
+
+Libraries:
+- react-navigation
+- redux
+- redux-actions
+- react-native-carousel
 
 Demo images:
 ![](https://github.com/huy-lv/expo-shopping-app/blob/master/images-readme/1.png?raw=true)
